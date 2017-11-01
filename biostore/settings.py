@@ -25,7 +25,7 @@ SECRET_KEY = '9&b&w&=3d68jvin$qzu1sqg@-hp8+0z%e58=56*w+n-^03d=_1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','backendbiostore.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1','organicfood.herokuapp.com']
 
 
 # Application definition
